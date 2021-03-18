@@ -14,3 +14,4 @@ second update
 third update
 
 squash and merge test1
+squash and merge test2
